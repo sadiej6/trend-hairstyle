@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sadiej6.github.io/trend-hairstyle/sitemapx.xml
